@@ -1,6 +1,6 @@
 # CodeClause-Personality_Prediction
 
-# PERSONALITY PREDICTION PROJECT
+# Golden Project - 2 : PERSONALITY PREDICTION
 
 ## Introduction :
 The personality of a human plays a major role in his personal and professional life. Many organizations have also started shortlisting the candidates based on their personality as this increase efficiency of work because the person is working in what he is good at than what he is forced to do. <br>
